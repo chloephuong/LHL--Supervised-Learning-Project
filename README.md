@@ -2,7 +2,7 @@
 
 ## Project/Goals
 
-The primary objective of the project is to extract valuable insights from the datasets and effectively communicate them to stakeholders. This involves employing suitable visualizations and metrics to address specific business questions, enabling stakeholders to make informed decisions based on the obtained insights.
+The primary objective of this project is to analyze the Diabetes dataset using various supervised learning models. By comparing different models, we aim to extract valuable insights from the data and effectively communicate these findings to stakeholders. The project will employ appropriate visualizations and metrics to present the insights and facilitate informed decision-making in response to specific business questions.
 
 ## Process
 
